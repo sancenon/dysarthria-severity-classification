@@ -1,6 +1,6 @@
 # Fine-tuning Pipeline Documentation
 
-This README explains the comprehensive data processing and model fine-tuning pipeline implemented in `final_finetuning.ipynb`. The pipeline consists of three main phases: **Data Preprocessing**, **Dataset Splitting**, and **Model Training/Fine-tuning**.
+This README explains the comprehensive data processing and model fine-tuning pipeline implemented in `Whisper-ST1.ipynb`. The pipeline consists of three main phases: **Data Preprocessing**, **Dataset Splitting**, and **Model Training/Fine-tuning**.
 
 ## Overview
 
@@ -300,7 +300,7 @@ class RegressionTrainer(Trainer):
 ## File Dependencies
 
 ### Required Files
-- `final_finetuning.ipynb`: Main pipeline implementation
+- `Whisper-ST1.ipynb`: Main pipeline implementation
 - `visualisation_code/save_visualisations.py`: Results visualization
 - `requirements.txt`: Python dependencies
 
